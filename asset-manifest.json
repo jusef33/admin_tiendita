@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/admin_tiendita/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/admin_tiendita/static/js/main.7f0fcbfb.chunk.js",
+    "main.js.map": "/admin_tiendita/static/js/main.7f0fcbfb.chunk.js.map",
+    "runtime-main.js": "/admin_tiendita/static/js/runtime-main.b76dca33.js",
+    "runtime-main.js.map": "/admin_tiendita/static/js/runtime-main.b76dca33.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/admin_tiendita/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.d57fe9da.chunk.js": "/admin_tiendita/static/js/2.d57fe9da.chunk.js",
+    "static/js/2.d57fe9da.chunk.js.map": "/admin_tiendita/static/js/2.d57fe9da.chunk.js.map",
+    "static/js/3.66d44ce0.chunk.js": "/admin_tiendita/static/js/3.66d44ce0.chunk.js",
+    "static/js/3.66d44ce0.chunk.js.map": "/admin_tiendita/static/js/3.66d44ce0.chunk.js.map",
+    "index.html": "/admin_tiendita/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/admin_tiendita/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/admin_tiendita/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d57fe9da.chunk.js.LICENSE.txt": "/admin_tiendita/static/js/2.d57fe9da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b76dca33.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.d57fe9da.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7f0fcbfb.chunk.js"
+  ]
+}
